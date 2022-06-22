@@ -1,0 +1,144 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "Copper Golem Addon || Beta v2 (B)",
+        "role": "This is an addon based on the deleted mob Copper Golem, which adds this entity and its function of pressing buttons, if you are interested in the addon I invite you to download it.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/Copper_Golem_v2_BP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/2.png"
+    },
+    {
+        "name": "Copper Golem Addon || Beta v2 (R)",
+        "role": "This is an addon based on the deleted mob Copper Golem, which adds this entity and its function of pressing buttons, if you are interested in the addon I invite you to download it.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/Copper_Golem_v2_RP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/2.png"
+    },
+    {
+        "name": "Mobs2021 Addon - Bug Fixes! (B)",
+        "role": "Sad why I don't win the copper golem or the glare? well stop being because I bring a complement for your minecraft that adds to the copper golem and the glare. each with their behaviors",
+        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/Mobs2021_BH.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/3.png"
+    },
+    {
+        "name": "Mobs2021 Addon - Bug Fixes!(R)",
+        "role": "Sad why I don't win the copper golem or the glare? well stop being because I bring a complement for your minecraft that adds to the copper golem and the glare. each with their behaviors",
+        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/Mobs2021_RS.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/3.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/1zH1LE0ZKMzN1Py_ywsRweYkLts6sjJ3FsAwoDF2ZhpekvaHljL3npOI2e0hfnalexxaGoVB0g4aVR71bPxY9Uo8iLEEF8k6zt7s",
+    "view_skin": "https://lh3.googleusercontent.com/ktXy4ELo_y5fLNXo9GknJya9O3HF-F8oMoZn9jvBFOyZETypHwvo9u6gFzHLHmY546S7WVqofPwHRr8MhV5H5EKINRzot4a7RMk"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/0k7coEinCyP5kG6dGz-4c87SB_PkK8X1EFP6S89eEbSckM1Bf1XO_-5E3rdZ7_6piavZKYb9BlazuVYOKjycscz5iYgHwC1tokc",
+    "view_skin": "https://lh3.googleusercontent.com/LDXfB_YvNPBQ4NfJwvKfv79ocQMqkAVaCzEYYrrYGZIjgpZPEubeC0tldc4ZSswffD5CPd4oUkPVf3jitj1nNa-dQxgheRpaPjlF"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/vlizkeb0BfjKpLMtADDUUDBVj_kAwzLwyxzReGF5Jdpv1hbNy8sNKsaXq-LAu66Kfi592jjOxrlUhUBT7WjIIqa-Buk9wZXS-wY5",
+    "view_skin": "https://lh3.googleusercontent.com/CmXApnHdGoceGh9fkulgFII9aQFIoUuWMAmJ6-znJ67xKt_lTYHDvf3NsWZ7I8xHro4G-t6GDzTfbf8wGo7uvv8n5WbD7qHhH-Y"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Kdym2T3cKo6OhROPXgIRsvJaTfVcx2JOYpNTDOwsgbIjHHU0Knck2Glf8ZoHnvhCJnOkOnMemySkahUV6rm4lrZ-ZtJYe_YsjQ",
+    "view_skin": "https://lh3.googleusercontent.com/kxRcdPL9RoDYlWLKOKoGFMlAsqbR3K_-G8RkBgopIqUft1Jpy-lgnGX5VWuGKKK_dQWH0UWWhAT7atLXYFmcYXq3CryUvwJaoWEO"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/z4-8OEw8ogiApANddvhYqLXHJIypxw9gXP3-RMZaWjJRngNVeAzuG3jYU-i_w_M9V9N-Q9x9ypXQpQqASXLAOH_BZXKVcl_yD0o",
+    "view_skin": "https://lh3.googleusercontent.com/A5F5XpfwRQnN04SOK_Qs11jrCsOsWk961sjL99g0fb7ipnKaiYfGPA_FRtArXEdGkkD3baafbsorFi5ki00u6EPEK97-aYtWgA8"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/SFircQ1sxyITy9IoeCJKzssjyOtFVTGrFDHfZZupwzmZIz4pKs8Xg4atfNtn7vVKEaEC_L60O8hicQGRtozAQTpu6HSYH9y887LQ",
+    "view_skin": "https://lh3.googleusercontent.com/yeKneGh2kwOsMCVr7RFMtyPPHAFpc599qGQQ-85RRTXBatJLMRqTpNzirJX67xW4dJol6L511pXLM_hHKQW36yjdClIVBYliHw"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
