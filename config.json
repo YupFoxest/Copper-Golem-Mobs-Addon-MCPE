@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,36 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Copper Golem Addon || Beta v2 (B)",
-        "role": "This is an addon based on the deleted mob Copper Golem, which adds this entity and its function of pressing buttons, if you are interested in the addon I invite you to download it.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/Copper_Golem_v2_BP.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/3.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/2.png"
-    },
-    {
-        "name": "Copper Golem Addon || Beta v2 (R)",
-        "role": "This is an addon based on the deleted mob Copper Golem, which adds this entity and its function of pressing buttons, if you are interested in the addon I invite you to download it.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/Copper_Golem_v2_RP.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/3.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/1/2.png"
-    },
-    {
-        "name": "Mobs2021 Addon - Bug Fixes! (B)",
-        "role": "Sad why I don't win the copper golem or the glare? well stop being because I bring a complement for your minecraft that adds to the copper golem and the glare. each with their behaviors",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/Mobs2021_BH.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/3.png"
-    },
-    {
-        "name": "Mobs2021 Addon - Bug Fixes!(R)",
-        "role": "Sad why I don't win the copper golem or the glare? well stop being because I bring a complement for your minecraft that adds to the copper golem and the glare. each with their behaviors",
-        "image": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/Mobs2021_RS.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/copper golem/4/3.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
